@@ -18,3 +18,4 @@ print('abc'.isalpha())  # checks if they are letters
 print(" ".isspace())
 print('hello'.startswith('he'))
 print('hllo'.endswith('lo'))
+mate
